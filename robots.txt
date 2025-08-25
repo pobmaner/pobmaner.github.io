@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 # Sitemap declarations
-Sitemap: https://example.com/sitemap.xml
-Sitemap: https://example.com/sitemap.txt
-Sitemap: https://example.com/atom.xml
+Sitemap: https://pobmaner.github.io/sitemap.xml
+Sitemap:  https://pobmaner.github.io/sitemap.txt
+Sitemap:  https://pobmaner.github.io/atom.xml
